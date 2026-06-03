@@ -13,6 +13,7 @@
       <Permissions>
         <Permission Cooldown="0">discord</Permission>
         <Permission Cooldown="0">home</Permission>
+        <Permission Cooldown="0">p</Permission>
         <Permission Cooldown="0">tpa</Permission>
         <Permission Cooldown="0">essentials.command.ping</Permission>
         <Permission Cooldown="0">essentials.command.reply</Permission>
@@ -23,7 +24,6 @@
         <Permission Cooldown="0">callvote.Day</Permission>
         <Permission Cooldown="0">callvote.Kick</Permission>
         <Permission Cooldown="0">callvote.NoRain</Permission>
-        
       </Permissions>
     </Group>
     <Group>
@@ -68,7 +68,7 @@
         <Permission Cooldown="0">heal</Permission>
         <Permission Cooldown="0">item</Permission>
         <Permission Cooldown="0">night</Permission>
-        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">teleport</Permission>
         <Permission Cooldown="0">unadmin</Permission>
         <Permission Cooldown="0">unban</Permission>
         <Permission Cooldown="0">vehicle</Permission>
