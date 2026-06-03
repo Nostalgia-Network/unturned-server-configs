@@ -47,5 +47,33 @@
         <Permission Cooldown="0">vanish</Permission>
       </Permissions>
     </Group>
+    <Group>
+      <Id>admin</Id>
+      <DisplayName>Admin</DisplayName>
+      <Prefix />
+      <Suffix />
+      <Color>white</Color>
+      <Members>
+        <Member>76561198244479694</Member>
+      </Members>
+      <ParentGroup>mod</ParentGroup>
+      <Priority>10</Priority>
+      <Permissions>
+        <Permission Cooldown="0">admin</Permission>
+        <Permission Cooldown="0">airdrop</Permission>
+        <Permission Cooldown="0">ban</Permission>
+        <Permission Cooldown="0">day</Permission>
+        <Permission Cooldown="0">experience</Permission>
+        <Permission Cooldown="0">give</Permission>
+        <Permission Cooldown="0">heal</Permission>
+        <Permission Cooldown="0">item</Permission>
+        <Permission Cooldown="0">night</Permission>
+        <Permission Cooldown="0">p</Permission>
+        <Permission Cooldown="0">unadmin</Permission>
+        <Permission Cooldown="0">unban</Permission>
+        <Permission Cooldown="0">vehicle</Permission>
+        <Permission Cooldown="0">weather</Permission>
+      </Permissions>
+    </Group>
   </Groups>
 </RocketPermissions>
