@@ -940,7 +940,7 @@ Players
 
 	// > Should each character slot have separate savedata?
 	// > Default: False
-	Allow_Per_Character_Saves True
+	Allow_Per_Character_Saves
 
 	// > If true, players will be kicked if their skin color is too similar to one of the level's terrain colors.
 	// > Default: True
